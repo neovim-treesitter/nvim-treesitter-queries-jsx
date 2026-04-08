@@ -1,7 +1,7 @@
 {
-  "lang": "jsx",
-  "semver": null,
   "parser_version": null,
   "queries_only": true,
-  "url": null
+  "lang": "jsx",
+  "url": null,
+  "semver": null
 }
